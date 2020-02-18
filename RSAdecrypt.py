@@ -1,5 +1,4 @@
 from Crypto.Util.number import *
-from encrypt import 
 import gmpy2
 
 #decryption of ciphertext in encrypt.py without using private key
